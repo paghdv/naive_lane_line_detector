@@ -35,10 +35,16 @@ My pipeline consisted of 5 steps.
 
 ###3. Examples
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S2I5_z0kKNs" frameborder="0" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=S2I5_z0kKNs
+" target="_blank"><img src="http://img.youtube.com/vi/S2I5_z0kKNs/0.jpg" 
+alt="Example" width="560" height="315" border="10" /></a> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2gmweqgOWqU" frameborder="0" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2gmweqgOWqU
+" target="_blank"><img src="http://img.youtube.com/vi/2gmweqgOWqU/0.jpg" 
+alt="Example" width="560" height="315" border="10" /></a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iaHEdL_aJRo" frameborder="0" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=iaHEdL_aJRo
+" target="_blank"><img src="http://img.youtube.com/vi/iaHEdL_aJRo/0.jpg" 
+alt="Example" width="560" height="315" border="10" /></a>
 
 
